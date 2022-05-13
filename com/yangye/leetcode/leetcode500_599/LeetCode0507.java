@@ -1,4 +1,4 @@
-package com.yangye.leetcode500_599;
+package com.yangye.leetcode.leetcode500_599;
 
 /**
  * @Author: yangye
